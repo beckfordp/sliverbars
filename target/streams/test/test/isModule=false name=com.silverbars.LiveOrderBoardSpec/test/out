@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mLiveOrderBoardSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mLive Order Board[0m[0m
+[0m[[0minfo[0m] [0m[32m- should register orders[0m[0m
+[0m[[0minfo[0m] [0m[32m- should cancel orders[0m[0m
+[0m[[0minfo[0m] [0m[32m- should group orders by price[0m[0m
+[0m[[0minfo[0m] [0m[32m- should group sell and buy orders[0m[0m
+[0m[[0minfo[0m] [0m[32m- should sort sell orders lowest price first[0m[0m
+[0m[[0minfo[0m] [0m[32m- should sort buy orders highest price first[0m[0m
+[0m[[0minfo[0m] [0m[32m- should list sell orders before buys orders[0m[0m
+[0m[[0minfo[0m] [0m[32m- should show summary information in the required format[0m[0m

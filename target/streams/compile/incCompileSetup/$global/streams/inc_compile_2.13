@@ -1,0 +1,278 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.13.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/LiveOrderBoard$.class
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/LiveOrderBoard.class
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/LiverOrderBoardT.class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Buy$.class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Buy.class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Order$.class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Order.class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/OrderType$.class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/OrderType.class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Sell$.class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Sell.class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Transaction.class
+binary dependencies:
+4 items
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> /Users/beckfordp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.1.jar
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> /Users/beckfordp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> /Users/beckfordp/dev/silverbars/src/main/scala/Order.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> com.silverbars.LiveOrderBoard
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> com.silverbars.LiveOrderBoard$
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> com.silverbars.LiverOrderBoardT
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com.silverbars.Buy
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com.silverbars.Buy$
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com.silverbars.Order
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com.silverbars.Order$
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com.silverbars.OrderType
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com.silverbars.OrderType$
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com.silverbars.Sell
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com.silverbars.Sell$
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com.silverbars.Transaction
+used names:
+160 items
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> &&
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> ++
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> ::
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> <init>
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> <repeated>
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> ==
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> ?0
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> A
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> AbstractFunction1
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Any
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> AnyRef
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> B
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> BUY
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Boolean
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Buy
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Class
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> DeprecatedDoubleOrdering
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Double
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> DoubleIsFractional
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Function1
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Int
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Iterable
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> IterableOnce
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Iterator
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> K
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> List
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> LiveOrderBoard
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> LiverOrderBoardT
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Map
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> ModuleSerializationProxy
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Nil
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> None
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Nothing
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Numeric
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Object
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Option
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Order
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> OrderType
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Ordering
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Predef
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Product
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> SELL
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> ScalaRunTime
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Sell
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Seq
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Serializable
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Some
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Statics
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> String
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> T
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> T0
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Transaction
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Tuple2
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> Value
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> _hashCode
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> _toString
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> all
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> anOrder
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> apply
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> asInstanceOf
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> buy
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> collection
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> com
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> diff
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> eq
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> filter
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> groupBy
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> immutable
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> ioobe
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> map
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> math
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> orderType
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> orders
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> package
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> quantity
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> reverse
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> runtime
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> scala
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> sell
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> silverbars
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> sortBy
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> sum
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> toList
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> toString
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> typedProductIterator
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> unitPrice
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> ||
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> &&
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> <init>
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> <repeated>
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> ==
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> ?0
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> A
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> AbstractFunction3
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> AbstractFunction4
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Any
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> AnyRef
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> BUY
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Boolean
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Buy
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Class
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Double
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Enumeration
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Int
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Iterator
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> ModuleSerializationProxy
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> None
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Nothing
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Object
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Option
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Order
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> OrderType
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Predef
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Product
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> SELL
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> ScalaRunTime
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Sell
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Serializable
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Some
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Statics
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> String
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> StringContext
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> StringOps
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> T
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> T0
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> T1
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> T2
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> T3
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> T4
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Transaction
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Tuple3
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Tuple4
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> Value
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> anyHash
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> arg$macro$1
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> arg$macro$2
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> arg$macro$3
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> asInstanceOf
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> collection
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> com
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> doubleHash
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> eq
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> f
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> finalizeHash
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> format
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> hashCode
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> immutable
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> ioobe
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> mix
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> orderType
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> package
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> productPrefix
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> quantity
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> runtime
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> scala
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> silverbars
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> typedProductIterator
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> unitPrice
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> userId
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> ||
+product stamps:
+12 items
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Buy$.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Buy.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/LiveOrderBoard$.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/LiveOrderBoard.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/LiverOrderBoardT.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Order$.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Order.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/OrderType$.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/OrderType.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Sell$.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Sell.class -> lastModified(1569163212000)
+/Users/beckfordp/dev/silverbars/target/scala-2.13/classes/com/silverbars/Transaction.class -> lastModified(1569163212000)
+source stamps:
+2 items
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> hash(67ac4f9b65f519c0128b12b1f6fcf4df63f48211)
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> hash(0f0b8b0cc1a6f71f4d23ce960b662bf911f69453)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1458538383000)
+/Users/beckfordp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.1.jar -> lastModified(1568797179000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar -> java.io.Serializable
+/Users/beckfordp/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.1.jar -> scala.Product
+internal apis:
+2 items
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwfoxICwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAnc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw7vv2lXQABm5vdGlmeXNxAH4ADOnZd3V0AAhyZWdpc3RlcnNxAH4ADJeJeI10AAZjYW5jZWxzcQB+AAyZYl+ZdAAEd2FpdHNxAH4ADLX1cch0AARzaG93c3EAfgAMglp373QADSRhc0luc3RhbmNlT2ZzcQB+AAzRjPjBdAAMcHJvZHVjdEFyaXR5c3EAfgAMf/6gq3QABmVxdWFsc3NxAH4ADAS7Vzh0AANhbGxzcQB+AAweawP/dAAMYXNJbnN0YW5jZU9mc3EAfgAMy8ui93QADHN5bmNocm9uaXplZHNxAH4ADAWNn750AA0kaXNJbnN0YW5jZU9mc3EAfgAMbgwhS3QACGNhbkVxdWFsc3EAfgAMlr/JuHQADXByb2R1Y3RQcmVmaXhzcQB+AAwG9f/RdAAJbm90aWZ5QWxsc3EAfgAM8AZIQ3QAA2J1eXNxAH4ADBU+4mF0AAxpc0luc3RhbmNlT2ZzcQB+AAyw5SYUdAAGPGluaXQ+c3EAfgAMXvXkNHQAAj09c3EAfgAMTfl27XQABWNsb25lc3EAfgAM2B7NyXQABiRpbml0JHNxAH4ADAEBrJh0ABBMaXZlck9yZGVyQm9hcmRUc3EAfgAMmwSx2nQABm9yZGVyc3NxAH4ADATJqdB0AARjb3B5c3EAfgAM3s5WZXQACHRvU3RyaW5nc3EAfgAMtawPPXQAAiE9c3EAfgAMmdqIG3QACGdldENsYXNzc3EAfgAMWNAinHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMVdTQMnQAEnByb2R1Y3RFbGVtZW50TmFtZXNxAH4ADDjW+NR0AAJuZXNxAH4ADD2q0O10AAJlcXNxAH4ADHb65X90AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx/CB2odAAOTGl2ZU9yZGVyQm9hcmRzcQB+AAyQkXm8dAACIyNzcQB+AAzkzloGdAAIZmluYWxpemVzcQB+AAwVyTmAdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyDwzywdAAIaGFzaENvZGVzcQB+AAwO3LAJdAATcHJvZHVjdEVsZW1lbnROYW1lc3NxAH4ADBtQKkZ0AARzZWxsc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHWNvbS5zaWx2ZXJiYXJzLkxpdmVPcmRlckJvYXJkdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AH5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCDc3EAfgB+dXEAfgBgAAAAAHNxAH4AfnVxAH4AYAAAAABzcQB+AH51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIJ0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJt0AAJpb3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCcc3EAfgCPdAAHUHJvZHVjdHNxAH4Ak3NxAH4AlnVxAH4AmQAAAAJzcQB+AJt0AAVzY2FsYXEAfgCic3EAfgCPdAAGRXF1YWxzcQB+AKVzcQB+AI90ABBMaXZlck9yZGVyQm9hcmRUc3EAfgCTc3EAfgCWdXEAfgCZAAAAA3NxAH4Am3QAA2NvbXNxAH4Am3QACnNpbHZlcmJhcnNxAH4AonNxAH4Aj3QABk9iamVjdHNxAH4Ak3NxAH4AlnVxAH4AmQAAAANzcQB+AJtxAH4AnnNxAH4Am3QABGxhbmdxAH4AonNxAH4Aj3QAA0FueXEAfgClc3EAfgBicQB+AG91cQB+AHAAAAAAc3EAfgByAXQAH2NvbS5zaWx2ZXJiYXJzLkxpdmVyT3JkZXJCb2FyZFR1cQB+AHUAAAAAfnEAfgB3dAAFVHJhaXR1cQB+AHsAAAABdAAMc2NhbGEubmF0aXZlc3EAfgB+cQB+AIRzcQB+AH5zcQB+AIZzcQB+AH51cQB+AGAAAAAAc3EAfgB+dXEAfgBgAAAAAHNxAH4AfnVxAH4AjQAAAAJzcQB+AI9xAH4AtnNxAH4Ak3NxAH4AlnVxAH4AmQAAAANzcQB+AJtxAH4AnnNxAH4Am3EAfgC8cQB+AKJzcQB+AI9xAH4AvnNxAH4Ak3NxAH4AlnVxAH4AmQAAAAJzcQB+AJtxAH4AqXEAfgCidXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAADY29tc3EAfgDedAAOY29tLnNpbHZlcmJhcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW1Zamj4dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOS9Vc2Vycy9iZWNrZm9yZHAvZGV2L3NpbHZlcmJhcnMvdGFyZ2V0L3NjYWxhLTIuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGesT5tl9RnAEosSsfb89N9j9IIR
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwClYZgwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAARzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBR8XKCdAAIb3JkZXJpbmdzcQB+AAuHsDdHdAANVmFsdWVPcmRlcmluZ3NxAH4AC+4aahB0AA1ta09yZGVyaW5nT3Bzc3EAfgALm8mYkHQAF3NwZWNpZmljSXRlcmFibGVGYWN0b3J5dXEAfgAJAAAA63NxAH4AC1LPeGl0ABVzdHJpY3RPcHRpbWl6ZWRDb25jYXRzcQB+AAvP+Nf7dAAMaXRlcmF0b3JGcm9tc3EAfgALdDZUW3QACnRvSXRlcmFibGVzcQB+AAt8tOgjdAAKd2l0aEZpbHRlcnNxAH4ACwjb4q50AA10b1RyYXZlcnNhYmxlc3EAfgALonR6sHQABnNpemVJc3NxAH4AC6zHd910AAZub3RpZnlzcQB+AAtGcZitdAAWc3RyaWN0T3B0aW1pemVkRmxhdE1hcHNxAH4ACw7pndV0AARmaW5kc3EAfgAL2PcMgHQABHNwYW5zcQB+AAvDtkXWdAAHZmxhdHRlbnNxAH4AC6Q8+0R0ABJzdHJpY3RPcHRpbWl6ZWR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1Y3RQcmVmaXhzcQB+AAsCrzwidAAIaXRlcmF0b3JzcQB+AAvmjW7MdAAEbGFzdHNxAH4AC4VFN9V0AAZvckVsc2VzcQB+AAuQH1Q/dAAFVmFsdWVzcQB+AAs7KTqrdAALZnJvbUJpdE1hc2tzcQB+AAvI6Tj3dAAJb3V0ZXJFbnVtc3EAfgALHkKM7nQABXVudGlsc3EAfgALPxZlMnQACW5vdGlmeUFsbHNxAH4AC2sD49F0AAtyZWFkUmVzb2x2ZXNxAH4ACy9+Hul0AAIvOnNxAH4AC7oDYrp0AAp0b0l0ZXJhdG9yc3EAfgALTDVl+HQACWFkZFN0cmluZ3NxAH4AC7zGX+d0AANCdXlzcQB+AAvZbxPtdAACdG9zcQB+AAuhR46VdAAMY29sbGVjdEZpcnN0c3EAfgALQoeROHQACWNvbXBhcmVUb3NxAH4AC90Xkud0ABBrZXlzSXRlcmF0b3JGcm9tc3EAfgALis1Y13QABGRyb3BzcQB+AAvIG5hzdAABLXNxAH4AC8i4rZB0AAxpc0luc3RhbmNlT2ZzcQB+AAvTsxmxdAAHcmV2ZXJzZXNxAH4AC6fwpM10AAVtYXhJZHNxAH4AC9WdoWB0AAZmaWx0ZXJzcQB+AAsSRg4ydAADKys6c3EAfgALAoKUjHQACG5leHROYW1lc3EAfgAL+Hs6gnQAEm5ld1NwZWNpZmljQnVpbGRlcnNxAH4AC+hrUv50AA9pdGVyYWJsZUZhY3RvcnlzcQB+AAsJw651dAAGPGluaXQ+c3EAfgALuoMeOHQACHRvU3RyZWFtc3EAfgALyEmI5XQAAmlkc3EAfgALFv+E93QAC2lzUmV2ZXJzZU9mc3EAfgALUVIwQXQAB3JhbmdlVG9zcQB+AAs74wU/dAAJbWluT3B0aW9uc3EAfgALphBHi3QACWNvbXBhbmlvbnNxAH4AC0sg54t0AANtYXhzcQB+AAtgnLcvdAACb25zcQB+AAvxAEDQdAAHc3RlcHBlcnNxAH4ACx00bFh0AApmaWx0ZXJJbXBsc3EAfgALV5pfinQABXRhaWxzc3EAfgAL507d53QACFZhbHVlU2V0c3EAfgALbPQXLXQABWFwcGx5c3EAfgALVZDMznQACHdpdGhOYW1lc3EAfgALP4bvUnQAAisrc3EAfgALIjGcZXQAB2dyb3VwZWR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0c3EAfgALHq+253QACGhhc2hDb2Rlc3EAfgALAEKSR3QACXJhbmdlSW1wbHNxAH4ACyETLcJ0ABNwcm9kdWN0RWxlbWVudE5hbWVzc3EAfgALM5FU6XQABnppcEFsbHNxAH4AC08Bm0Z0AAdwcm9kdWN0c3EAfgALAHRTo3QABHZpZXdzcQB+AAtl7P+edAAEZ3RlcXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAVzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AfV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABhjb20uc2lsdmVyYmFycy5PcmRlclR5cGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+Ag5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4B9UwACWluaGVyaXRlZHEAfgH1TAAHcGFyZW50c3EAfgH1eHEAfgITc3EAfgIOdXEAfgHwAAAAAHNxAH4CDnVxAH4B8AAAAABzcQB+Ag51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AhJ0AAtFbnVtZXJhdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4CEnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4CLHNxAH4CH3QADFNlcmlhbGl6YWJsZXNxAH4CI3NxAH4CJnVxAH4CKQAAAANzcQB+Ait0AARqYXZhc3EAfgIrdAACaW9xAH4CMHNxAH4CH3QABk9iamVjdHNxAH4CI3NxAH4CJnVxAH4CKQAAAANzcQB+AitxAH4CN3NxAH4CK3QABGxhbmdxAH4CMHNxAH4CH3QAA0FueXEAfgIlc3EAfgHycQB+Af91cQB+AgAAAAAAc3EAfgICCXQAGmNvbS5zaWx2ZXJiYXJzLlRyYW5zYWN0aW9udXEAfgIFAAAAAH5xAH4CB3QABVRyYWl0dXEAfgILAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4CDnEAfgIUc3EAfgIOc3EAfgIWc3EAfgIOdXEAfgHwAAAAAHNxAH4CDnVxAH4B8AAAAABzcQB+Ag51cQB+Ah0AAAACc3EAfgIfcQB+AjtzcQB+AiNzcQB+AiZ1cQB+AikAAAADc3EAfgIrcQB+AjdzcQB+AitxAH4CQXEAfgIwc3EAfgIfcQB+AkNzcQB+AiNzcQB+AiZ1cQB+AikAAAACc3EAfgIrcQB+Ai5xAH4CMHNxAH4B8nEAfgH/dXEAfgIAAAAAAHNxAH4CAgB0ABNjb20uc2lsdmVyYmFycy5TZWxsdXEAfgIFAAAAAH5xAH4CB3QACENsYXNzRGVmdXEAfgILAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4CDnEAfgIUc3EAfgIOc3EAfgIWc3EAfgIOdXEAfgHwAAAAAHNxAH4CDnVxAH4B8AAAAABzcQB+Ag51cQB+Ah0AAAAGc3EAfgIfcQB+AjJzcQB+AiNzcQB+AiZ1cQB+AikAAAADc3EAfgIrcQB+AjdzcQB+Ait0AAJpb3EAfgIwc3EAfgIfdAAHUHJvZHVjdHNxAH4CI3NxAH4CJnVxAH4CKQAAAAJzcQB+AitxAH4CLnEAfgIwc3EAfgIfdAAGRXF1YWxzcQB+AnxzcQB+Ah90AAtUcmFuc2FjdGlvbnNxAH4CI3NxAH4CJnVxAH4CKQAAAANzcQB+Ait0AANjb21zcQB+Ait0AApzaWx2ZXJiYXJzcQB+AjBzcQB+Ah9xAH4CO3NxAH4CI3NxAH4CJnVxAH4CKQAAAANzcQB+AitxAH4CN3NxAH4CK3EAfgJBcQB+AjBzcQB+Ah9xAH4CQ3EAfgJ8c3EAfgHycQB+Af91cQB+AgAAAAAAc3EAfgICAHQAEmNvbS5zaWx2ZXJiYXJzLkJ1eXVxAH4CBQAAAABxAH4CZnVxAH4CCwAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+Ag5xAH4CFHNxAH4CDnNxAH4CFnNxAH4CDnVxAH4B8AAAAABzcQB+Ag51cQB+AfAAAAAAc3EAfgIOdXEAfgIdAAAABnNxAH4CH3EAfgIyc3EAfgIjc3EAfgImdXEAfgIpAAAAA3NxAH4CK3EAfgI3c3EAfgIrdAACaW9xAH4CMHNxAH4CH3EAfgJ7c3EAfgIjc3EAfgImdXEAfgIpAAAAAnNxAH4CK3EAfgIucQB+AjBzcQB+Ah90AAZFcXVhbHNxAH4CqnNxAH4CH3QAC1RyYW5zYWN0aW9uc3EAfgIjc3EAfgImdXEAfgIpAAAAA3NxAH4CK3QAA2NvbXNxAH4CK3QACnNpbHZlcmJhcnNxAH4CMHNxAH4CH3EAfgI7c3EAfgIjc3EAfgImdXEAfgIpAAAAA3NxAH4CK3EAfgI3c3EAfgIrcQB+AkFxAH4CMHNxAH4CH3EAfgJDcQB+AqpzcQB+AfJxAH4B/3VxAH4CAAAAAABzcQB+AgIAdAAUY29tLnNpbHZlcmJhcnMuT3JkZXJ1cQB+AgUAAAAAcQB+AmZ1cQB+AgsAAAABdAAMc2NhbGEubmF0aXZlc3EAfgIOcQB+AhRzcQB+Ag5zcQB+AhZzcQB+Ag51cQB+AfAAAAAAc3EAfgIOdXEAfgHwAAAAAHNxAH4CDnVxAH4CHQAAAAVzcQB+Ah9xAH4CMnNxAH4CI3NxAH4CJnVxAH4CKQAAAANzcQB+AitxAH4CN3NxAH4CK3QAAmlvcQB+AjBzcQB+Ah9xAH4Ce3NxAH4CI3NxAH4CJnVxAH4CKQAAAAJzcQB+AitxAH4CLnEAfgIwc3EAfgIfdAAGRXF1YWxzcQB+AthzcQB+Ah9xAH4CO3NxAH4CI3NxAH4CJnVxAH4CKQAAAANzcQB+AitxAH4CN3NxAH4CK3EAfgJBcQB+AjBzcQB+Ah9xAH4CQ3EAfgLYdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAADY29tc3EAfgLndAAOY29tLnNpbHZlcmJhcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW1Zamj4dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAOS9Vc2Vycy9iZWNrZm9yZHAvZGV2L3NpbHZlcmJhcnMvdGFyZ2V0L3NjYWxhLTIuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA8LiwzBpvcfTSPOlgtmK/kR9pRT
+external apis:
+0 items
+source infos:
+2 items
+/Users/beckfordp/dev/silverbars/src/main/scala/LiveOrderBoard.scala -> 
+AAAAAAAAAAA=
+/Users/beckfordp/dev/silverbars/src/main/scala/Order.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbVkeWBZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9Vc2Vycy9iZWNrZm9yZHAvZGV2L3NpbHZlcmJhcnMvdGFyZ2V0L3NjYWxhLTIuMTMvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbVk61mF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9Vc2Vycy9iZWNrZm9yZHAvZGV2L3NpbHZlcmJhcnMvdGFyZ2V0L3NjYWxhLTIuMTMvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbVlqaPh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9Vc2Vycy9iZWNrZm9yZHAvZGV2L3NpbHZlcmJhcnMvdGFyZ2V0L3NjYWxhLTIuMTMvY2xhc3Nlc3QAAS8=
